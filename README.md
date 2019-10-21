@@ -35,7 +35,7 @@
 <br />
 <p align="center">
   <a href="https://github.com/De-La-Nasa/SpaceAppChallenge">
-    <img src="images/logo.png" alt="Logo" width="285" height="126">
+    <img src="images/logo.png" alt="Logo" width="142" height="63">
   </a>
 
   <h3 align="center">The Ocean Cleanup EXPERIENCE</h3>
