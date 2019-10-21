@@ -41,7 +41,7 @@
   <h3 align="center">The Ocean Cleanup EXPERIENCE</h3>
 
   <p align="center">
-    Take part on changing the world from the gaming comunnity
+    Take part on changing the world from the gaming community
     <br />
     <br />
     <br />
